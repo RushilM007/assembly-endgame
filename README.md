@@ -4,7 +4,7 @@ You have 8 chances to guess the word before you run out of attempts!
 
 # Live Demo 
 
-Play it here: assembly-endgame-fawn.vercel.app
+Play it [here](assembly-endgame-fawn.vercel.app)
 
 # Running Locally 
 
