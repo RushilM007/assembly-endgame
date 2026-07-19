@@ -7,9 +7,10 @@ You have 8 chances to guess the word before you run out of attempts!
 Play it here: 
 
 # Running Locally 
-\`\`\`bash
-git clone https://github.com/your-username/assembly-endgame.git
+
+```bash
+git clone https://github.com/RushilM007/assembly-endgame.git
 cd assembly-endgame
 npm install
 npm run dev
-\`\`\`
+```
